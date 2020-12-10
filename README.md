@@ -1,2 +1,1 @@
-# PacList
-PacList - all package in one file
+# PacList GH Pages
