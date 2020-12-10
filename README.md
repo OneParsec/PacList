@@ -15,4 +15,4 @@ chmod 777 paclist.py
 
 # Screenshot
 
-[image.images/image1.png
+![](images/image1.png)
