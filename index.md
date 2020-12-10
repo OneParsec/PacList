@@ -6,4 +6,4 @@ Now PacList is only avalible on ArchLinux-based OS.
 
 ### Support or Contact
 
-Having trouble with PacList? .[Contact with me](https://github.com/OneParsec/PacList/issues)
+Having trouble with PacList? [Contact with me](https://github.com/OneParsec/PacList/issues)
